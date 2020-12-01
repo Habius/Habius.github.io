@@ -3,7 +3,7 @@ layout: default
 title: Number Theory
 nav_order: 7
 has_children: true
-permalink: /doc/mathmatics/number
+permalink: /mathmatics/number
 parent: mathmatics
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: mathmatics
 nav_order: 1
 has_children: true
-permalink: /doc/mathmatics
+permalink: /mathmatics
 ---
 
 # Mathmatics
