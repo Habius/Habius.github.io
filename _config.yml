@@ -7,7 +7,8 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-
+remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
@@ -107,11 +108,6 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 plugins:
   - jekyll-seo-tag
-
-remote_theme: pmarsceill/just-the-docs
-
-theme:
-    just-the-docs
 
 kramdown:
   syntax_highlighter_opts:
