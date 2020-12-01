@@ -3,7 +3,7 @@ layout: default
 title: General Relativity Theory
 nav_order: 3
 has_children: true
-parent: Relativity Theory
+parent: relativity
 permalink: /physics/relativity/gnrel
 ---
 
