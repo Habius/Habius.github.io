@@ -6,13 +6,14 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Habius의 과학 위키에 오신걸 환영합니다.
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+고등학생이 학교에서 배운것을 기록하고 탐구하는 위키입니다.
+
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[더 알아보기](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [제작자 깃헙주소](https://github.com/Habius/Habius.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
