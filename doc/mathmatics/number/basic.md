@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Number Theory
-nav_order:4
+nav_order: 7
 has_children: true
-parent: mathmatics
 permalink: /doc/mathmatics/number
+parent: mathmatics
 ---
 
 # Number Theory
