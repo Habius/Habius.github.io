@@ -2,7 +2,7 @@
 layout: default
 title: Galileo's Relativity Theory
 nav_order: 1
-
+grand_parent: physics
 parent: physics/relativity
 permalink: /physics/relativity/rel
 
