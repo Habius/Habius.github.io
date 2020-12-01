@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Topology
-nav_order: 1
+nav_order: 6
 has_children: true
 permalink: /doc/mathmatics/topology
+parent: mathmatics
 ---
 
 # Topology

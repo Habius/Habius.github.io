@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Linear Algebra
-nav_order: 1
+nav_order: 5
 has_children: true
+parent: mathmatics
 permalink: /doc/mathmatics/linear
 ---
 

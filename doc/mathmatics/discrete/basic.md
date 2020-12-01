@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Discrete mathmatics & Logical
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /doc/mathmatics/discrete
+parent: mathmatics
 ---
 
 # Discrete mathmatics & Logical

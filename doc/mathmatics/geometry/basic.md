@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Geometry
-nav_order: 1
+nav_order: 3
 has_children: true
+parent: mathmatics
 permalink: /doc/mathmatics/geometry
 ---
 

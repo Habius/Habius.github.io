@@ -3,6 +3,7 @@ layout: default
 title: Calculus&Analysis
 nav_order: 1
 has_children: true
+parent: mathmatics
 permalink: /doc/mathmatics/calculus&analysis
 ---
 
