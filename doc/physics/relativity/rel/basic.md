@@ -3,7 +3,7 @@ layout: default
 title: Galileo's Relativity Theory
 nav_order: 1
 
-parent: relativity
+parent: physics/relativity
 permalink: /physics/relativity/rel
 
 has_children: true
