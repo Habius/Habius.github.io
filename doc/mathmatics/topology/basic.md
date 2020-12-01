@@ -3,7 +3,7 @@ layout: default
 title: Topology
 nav_order: 6
 has_children: true
-permalink: /doc/mathmatics/topology
+permalink: /mathmatics/topology
 parent: mathmatics
 ---
 

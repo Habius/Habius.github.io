@@ -4,7 +4,7 @@ title: Geometry
 nav_order: 3
 has_children: true
 parent: mathmatics
-permalink: /doc/mathmatics/geometry
+permalink: /mathmatics/geometry
 ---
 
 # Geometry

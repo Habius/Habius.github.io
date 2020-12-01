@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 0
 description: "Habius' Natural Science Wiki"
-permalink: /doc
+permalink: /
 ---
 
 # Habius의 과학 위키에 오신걸 환영합니다.

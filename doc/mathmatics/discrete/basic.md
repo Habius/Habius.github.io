@@ -3,7 +3,7 @@ layout: default
 title: Discrete mathmatics & Logical
 nav_order: 2
 has_children: true
-permalink: /doc/mathmatics/discrete
+permalink: /mathmatics/discrete
 parent: mathmatics
 ---
 
