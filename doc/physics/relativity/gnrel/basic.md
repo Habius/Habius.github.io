@@ -2,9 +2,9 @@
 layout: default
 title: General Relativity Theory
 nav_order: 3
-has_children: true
+
 parent: relativity
-permalink: /physics/relativity/gnrel
+
 ---
 
 # General Relativity Theory

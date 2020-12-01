@@ -2,9 +2,7 @@
 layout: default
 title: Quantum Field Theory
 nav_order: 3
-has_children: true
 parent: quantum-mechanics
-permalink: /physics/quantum-mechanics/qft
 ---
 
 # Quantum Field Theory
