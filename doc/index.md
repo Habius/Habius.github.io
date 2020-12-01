@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Home
-nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
+nav_order: 0
+description: "Habius' Natural Science Wiki"
+permalink: /doc
 ---
 
 # Habius의 과학 위키에 오신걸 환영합니다.
