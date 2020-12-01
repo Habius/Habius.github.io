@@ -2,9 +2,9 @@
 layout: default
 title: Special Relativity Theory
 nav_order: 2
-
+permalink: /physics/relativity/sprel
 parent: relativity
-
+has_children: true
 ---
 
 # Special Relativity Theory

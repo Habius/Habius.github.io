@@ -3,6 +3,8 @@ layout: default
 title: Schrodinger Wave equation
 nav_order: 2
 parent: quantum-mechanics
+permalink: /physics/quantum-mechanics/schwave
+has_children: true
 ---
 
 # Schrodinger Wave equation

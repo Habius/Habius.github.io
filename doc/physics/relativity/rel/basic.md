@@ -4,7 +4,9 @@ title: Galileo's Relativity Theory
 nav_order: 1
 
 parent: relativity
-
+permalink: /physics/relativity/rel
+parent: relativity
+has_children: true
 ---
 
 # Galileo's Relativity Theory
