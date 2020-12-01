@@ -5,7 +5,7 @@ nav_order: 1
 
 parent: relativity
 permalink: /physics/relativity/rel
-parent: relativity
+
 has_children: true
 ---
 

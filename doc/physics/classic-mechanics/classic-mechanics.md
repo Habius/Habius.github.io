@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Classic Mechanics
+title: classic-mechanics
 nav_order: 1
 has_children: true
 parent: physics

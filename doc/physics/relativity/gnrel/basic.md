@@ -5,7 +5,7 @@ nav_order: 3
 
 parent: relativity
 permalink: /physics/relativity/gnrel
-parent: relativity
+
 has_children: true
 ---
 

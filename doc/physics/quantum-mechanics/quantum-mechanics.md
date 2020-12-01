@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantum Mechanics
+title: quantum-mechanics
 nav_order: 3
 has_children: true
 parent: physics
