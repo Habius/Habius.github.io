@@ -3,7 +3,7 @@ layout: default
 title: Special Relativity Theory
 nav_order: 2
 has_children: true
-parent: relativity
+parent: Relativity Theory
 permalink: /physics/relativity/sprel
 ---
 
