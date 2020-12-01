@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mathmatics
+title: mathmatics
 nav_order: 2
 has_children: true
 permalink: /mathmatics

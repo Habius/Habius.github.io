@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Physics
+title: physics
 nav_order: 3
 has_children: true
 permalink: /physics
