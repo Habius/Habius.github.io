@@ -2,7 +2,6 @@
 
 source "https://rubygems.org"
 
-gemspec
 
 gem "just-the-docs"
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
