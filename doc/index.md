@@ -6,7 +6,7 @@ description: "Habius' Natural Science Wiki"
 permalink: /
 ---
 
-# Habius의 과학 위키에 오신걸 환영합니다.
+# Habius의 케인 위키에 오신걸 환영합니다.
 {: .fs-9 }
 
 고등학생이 학교에서 배운것을 기록하고 탐구하는 위키입니다.
